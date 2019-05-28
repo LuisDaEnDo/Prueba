@@ -1,0 +1,8 @@
+C:\Users\danie\source\repos\HuellitasSoft\Servicio\HuellitasService.Common\bin\Debug\HuellitasService.Common.dll
+C:\Users\danie\source\repos\HuellitasSoft\Servicio\HuellitasService.Common\bin\Debug\HuellitasService.Common.pdb
+C:\Users\danie\source\repos\HuellitasSoft\Servicio\HuellitasService.Common\bin\Debug\Huellitas.DTO.dll
+C:\Users\danie\source\repos\HuellitasSoft\Servicio\HuellitasService.Common\obj\Debug\HuellitasService.Common.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\HuellitasSoft\Servicio\HuellitasService.Common\obj\Debug\HuellitasService.Common.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\HuellitasSoft\Servicio\HuellitasService.Common\obj\Debug\HuellitasService.Common.csproj.CopyComplete
+C:\Users\danie\source\repos\HuellitasSoft\Servicio\HuellitasService.Common\obj\Debug\HuellitasService.Common.dll
+C:\Users\danie\source\repos\HuellitasSoft\Servicio\HuellitasService.Common\obj\Debug\HuellitasService.Common.pdb

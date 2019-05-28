@@ -1,0 +1,6 @@
+C:\Users\danie\source\repos\HuellitasSoft\DTO\Huellitas.DTO\bin\Debug\Huellitas.DTO.dll
+C:\Users\danie\source\repos\HuellitasSoft\DTO\Huellitas.DTO\bin\Debug\Huellitas.DTO.pdb
+C:\Users\danie\source\repos\HuellitasSoft\DTO\Huellitas.DTO\obj\Debug\Huellitas.DTO.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\HuellitasSoft\DTO\Huellitas.DTO\obj\Debug\Huellitas.DTO.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\HuellitasSoft\DTO\Huellitas.DTO\obj\Debug\Huellitas.DTO.dll
+C:\Users\danie\source\repos\HuellitasSoft\DTO\Huellitas.DTO\obj\Debug\Huellitas.DTO.pdb

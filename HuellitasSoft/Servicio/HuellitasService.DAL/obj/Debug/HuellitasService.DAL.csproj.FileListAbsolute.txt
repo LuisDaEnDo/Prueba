@@ -1,0 +1,12 @@
+C:\Users\danie\source\repos\HuellitasSoft\Servicio\HuellitasService.DAL\bin\Debug\HuellitasService.DAL.dll.config
+C:\Users\danie\source\repos\HuellitasSoft\Servicio\HuellitasService.DAL\bin\Debug\HuellitasService.DAL.dll
+C:\Users\danie\source\repos\HuellitasSoft\Servicio\HuellitasService.DAL\bin\Debug\HuellitasService.DAL.pdb
+C:\Users\danie\source\repos\HuellitasSoft\Servicio\HuellitasService.DAL\bin\Debug\EntityFramework.dll
+C:\Users\danie\source\repos\HuellitasSoft\Servicio\HuellitasService.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\danie\source\repos\HuellitasSoft\Servicio\HuellitasService.DAL\bin\Debug\EntityFramework.xml
+C:\Users\danie\source\repos\HuellitasSoft\Servicio\HuellitasService.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\danie\source\repos\HuellitasSoft\Servicio\HuellitasService.DAL\obj\Debug\HuellitasService.DAL.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\HuellitasSoft\Servicio\HuellitasService.DAL\obj\Debug\HuellitasService.DAL.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\HuellitasSoft\Servicio\HuellitasService.DAL\obj\Debug\HuellitasService.DAL.csproj.CopyComplete
+C:\Users\danie\source\repos\HuellitasSoft\Servicio\HuellitasService.DAL\obj\Debug\HuellitasService.DAL.dll
+C:\Users\danie\source\repos\HuellitasSoft\Servicio\HuellitasService.DAL\obj\Debug\HuellitasService.DAL.pdb
